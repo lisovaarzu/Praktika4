@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\bin\Debug\RandomMatrix.exe.config
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\bin\Debug\RandomMatrix.exe
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\bin\Debug\RandomMatrix.pdb
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\obj\Debug\RandomMatrix.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\obj\Debug\RandomMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\obj\Debug\RandomMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\obj\Debug\RandomMatrix.exe
+C:\Users\Админ\source\repos\Практика4\RandomMatrix\obj\Debug\RandomMatrix.pdb
