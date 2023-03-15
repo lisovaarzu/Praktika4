@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\bin\Debug\SlojenieMatrix.exe.config
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\bin\Debug\SlojenieMatrix.exe
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\bin\Debug\SlojenieMatrix.pdb
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\obj\Debug\SlojenieMatrix.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\obj\Debug\SlojenieMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\obj\Debug\SlojenieMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\obj\Debug\SlojenieMatrix.exe
+C:\Users\Админ\source\repos\Практика4\SlojenieMatrix\obj\Debug\SlojenieMatrix.pdb
